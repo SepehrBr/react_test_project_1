@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st note title",
+      "datetime": "October 23, 2022 2:37:05 PM",
+      "body": "this is note for test and im typing the description trying not to look at the keyboard.\nim not so fast but trying to do my best\n"
+    },
+    {
+      "id": 2,
+      "title": "2nd test post",
+      "datetime": "October 23, 2022 2:54:28 PM",
+      "body": "again in this description im trying my best to type without looking to the keyboard and also im trying 10 fingers type.\n\nedit post successfully initiated!!!"
+    },
+    {
+      "id": 3,
+      "title": "usecontext hook initialized successfully",
+      "datetime": "October 23, 2022 4:26:14 PM",
+      "body": "this hook worked properly and all of the functions worked well too"
+    }
+  ]
+}
